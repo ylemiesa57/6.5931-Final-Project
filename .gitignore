@@ -150,3 +150,6 @@ ref/
 # Lab 4 raw data (batched/ has processed versions)
 labs/lab_4/part7_data/*.zip
 labs/lab_4/part7_data/*_routing.json
+
+# OS trash / clutter accidentally committed in first commit
+.Trash-0/

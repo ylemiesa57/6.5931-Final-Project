@@ -11,7 +11,7 @@ Running a RAG workload on a simple FP16 accelerator model.
 ## How to run
 
 ```powershell
-cd final-project-16
+cd 6.5931-Final-Project
 $env:DOCKER_ARCH = "amd64"
 docker compose up
 ```
